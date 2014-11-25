@@ -1,4 +1,4 @@
 gitskills
 =========
 this is a gitskills
-a new branch
+creating a new branch is quick and simple
